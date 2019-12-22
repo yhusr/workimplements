@@ -1,0 +1,15 @@
+admin:
+  mobile_phone: '15239805742'
+  reg_name: admin
+  type: 0
+  user_id: 92685
+borrower:
+  mobile_phone: '15239810674'
+  reg_name: borrower
+  type: 1
+  user_id: 92686
+investor:
+  mobile_phone: '15281496527'
+  reg_name: investor
+  type: 1
+  user_id: 92687

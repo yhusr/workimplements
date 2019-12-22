@@ -1,0 +1,19 @@
+excel:
+  name: excelcases.xlsx
+
+mysql:
+  url: http://api.lemonban.com/futureloan
+  host: api.lemonban.com
+  user: future
+  password: "123456"
+  port: 3306
+  db: futureloan
+  sql: select * from member where mobile_phone=%s
+
+phonenum:
+  prefix: "152"
+
+log:
+  format: '%(asctime)s - %(name)s - [%(filename)s-->line:%(lineno)d] - %(levelname)s: %(message)s'
+  level: DEBUG
+
